@@ -20,7 +20,7 @@
 --------------
 
 ```bash
-curl -o start.sh https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/feiyangdigital-bot/main/start.sh && chmod +x start.sh && ./start.sh
+curl -o start.sh https://ghproxy.cc/https://raw.githubusercontent.com/kiko923/feiyangdigital-bot/main/start.sh && chmod +x start.sh && ./start.sh
 ```
 
 3️⃣ 配置机器人
